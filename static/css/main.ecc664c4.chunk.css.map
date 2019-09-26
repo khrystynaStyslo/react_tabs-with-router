@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Tab.css"],"names":[],"mappings":"AAAA,MACE,YACF,CAEA,aACE,iBAAkB,CAClB,cACF,CCPA,OACE,YAAa,CACb,cAAe,CACf,WACF","file":"main.ecc664c4.chunk.css","sourcesContent":[".main {\n  padding: 10px;\n}\n\n.tab-content {\n  text-align: center;\n  font-size: 25px;\n}\n",".badge {\n  padding: 15px;\n  font-size: 20px;\n  margin: 10px;\n}\n"]}
